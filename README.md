@@ -8,7 +8,7 @@ Desenvolver um microservices com as boas práticas de API é essencial para um b
 
 ## Alcateia Dev
 
-<img src="Transparente.png>">
+<img src="Transparente.png">
 
 Link: [http://www.alcateiadev.com.br/](http://www.alcateiadev.com.br/)
 Slack: https://alcateiadev.slack.com/
